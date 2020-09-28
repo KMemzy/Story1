@@ -1,2 +1,2 @@
 # Story1
-Story notes, and story (markdown)
+An idea for a story has formed. The notes and sstuff go here!
